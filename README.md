@@ -1,6 +1,6 @@
 # MyProject
 
 
-Сайт разработан на IT-курсах.
+Сайт-визитка "Путешествие".
 
 Демо сайта: https://albertov95.github.io/second
